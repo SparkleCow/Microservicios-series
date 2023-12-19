@@ -1,13 +1,12 @@
 server:
   port: 8888
-
 spring:
-  profiles:
-    active: native
-  application:
-    name: config-server
   cloud:
     config:
       server:
-        native:
-          search-locations: classpath:/configurations
+        git:
+          default-label: config-server
+          uri: https://github.com/SparkleCow/Microservicios-series.git
+          search-paths: config-data
+  application:
+    name: config-service
