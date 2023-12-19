@@ -13,6 +13,8 @@
     <file url="file://$PROJECT_DIR$/SeriesCow/seriescow/microservice-eureka/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SeriesCow/seriescow/microservice-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SeriesCow/seriescow/microservice-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SeriesCow/seriescow/microservice-series/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SeriesCow/seriescow/microservice-series/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SeriesCow/seriescow/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SeriesCow/seriescow/src/main/resources" charset="UTF-8" />
   </component>

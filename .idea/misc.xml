@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/SeriesCow/microservice-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/SeriesCow/seriescow/microservice-config/pom.xml" />
         <option value="$PROJECT_DIR$/SeriesCow/seriescow/microservice-chapters/pom.xml" />
+        <option value="$PROJECT_DIR$/SeriesCow/seriescow/microservice-series/pom.xml" />
       </list>
     </option>
   </component>

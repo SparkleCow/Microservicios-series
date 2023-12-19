@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Set;
 
 @RestController
-@RequestMapping("/chapter")
+@RequestMapping("/api/chapter")
 @RequiredArgsConstructor
 public class ChapterController {
     private final ChapterService chapterService;

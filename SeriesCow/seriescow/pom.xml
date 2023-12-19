@@ -22,6 +22,7 @@
     <module>microservice-eureka</module>
     <module>microservice-config</module>
     <module>microservice-chapters</module>
+    <module>microservice-series</module>
   </modules>
 
   <properties>
@@ -50,3 +51,8 @@
     </pluginManagement>
   </build>
 </project>
+
+
+
+
+
